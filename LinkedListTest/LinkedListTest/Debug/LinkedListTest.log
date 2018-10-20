@@ -1,0 +1,4 @@
+﻿  LinkedListTest.cpp
+c:\users\anife mustafa\desktop\linkedlisttest\linkedlisttest\linkedlisttest\linkedlisttest.cpp(15): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+  c:\users\anife mustafa\desktop\linkedlisttest\linkedlisttest\linkedlisttest\linkedlisttest.cpp(12): note: see declaration of 'Node'
+  LinkedListTest.vcxproj -> C:\Users\Anife Mustafa\Desktop\LinkedListTest\LinkedListTest\Debug\LinkedListTest.exe
